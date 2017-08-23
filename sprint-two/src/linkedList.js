@@ -49,7 +49,7 @@ var addToTail = function(value) {
       return false;
     }  
     var search = function(n){
-      console.log('inside the search ')
+      //console.log('inside the search ')
       if (n.next === null){
         return false;
       } 
