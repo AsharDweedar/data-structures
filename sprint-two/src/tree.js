@@ -29,7 +29,7 @@ treeMethods.contains = function(target) {
 	   }
 	   return false;
 
-	}
+	}                                                                                                
 	if(this.value === target){
 		return true ;
 	} else {
